@@ -365,6 +365,7 @@ Death Crimson OX (Japan)                        841-0016B*   23524   10 (64Mb)  
 Death Crimson OX (Japan, Rev A)                 841-0016C*   23524A  10 (64Mb)   present     315-6213  317-5066-COM   *dumped cart had plastic case from some other game with self made / fake sticker
 Death Crimson OX (USA)                          841-0016B* DCOX US** 10 (64Mb)   present     315-6213  317-5066-COM   *metal cage NAOMI, no cart case **flash ROM module
 Dengen Tenshi Taisen Janshi Shangri-La          841-0004C    22060   12 (64Mb)   ?           315-6213  317-5050-JPN
+Derby Owners Club (Japan, Rev A)				840-0029B	 22284A  11 (64mb)	 ?  		 315-6213  not present	  touch panel + 2 buttons + card reader (Sanwa CRP-1231AR-10)  
 Derby Owners Club (Japan, Rev B)                840-0016C    22099B  14 (64Mb)   ?           315-6213  317-0262-JPN   touch panel + 2 buttons + card reader
 Derby Owners Club 2000 (Japan)                  *            22222   16 (64Mb)   present     315-6213  not present    * no cart, master unit stickers: 833-13937-01, DOC 4050-01, DOC S. not dumped.
 Derby Owners Club 2000 Ver.2 (Japan, Rev A)     840-0052C    22284A  16 (64Mb)   present     315-6213  not present
